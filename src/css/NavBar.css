@@ -1,0 +1,38 @@
+.navbar{
+  margin: 6px;
+  margin-bottom: 80px;
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  color: white;
+  padding: 10px 25px;
+  border-radius: 8px;
+  letter-spacing: 2px;
+}
+
+.headers{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 19px;
+  height: 30px;
+}
+
+.expand{
+  cursor: pointer;
+}
+
+.nav-item{
+  margin: 0 6px;
+}
+
+.drop-down-itms{
+  margin-top: 20px;
+  line-height: 35px;
+  font-size: 19px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}

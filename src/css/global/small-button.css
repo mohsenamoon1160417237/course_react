@@ -1,0 +1,9 @@
+#small-button{
+  border-radius: 6px;
+  margin-left: 2px;
+  background: darkblue;
+  color: white;
+  padding-right: 8px;
+  padding-left: 8px;
+  height: 32px;
+}

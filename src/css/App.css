@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#main{
+  width: 100%;
+}
+
+#unsplash-img-length{
+
+  margin-top: 60px;
+  margin-bottom: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
